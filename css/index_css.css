@@ -1,0 +1,19 @@
+header{
+	padding-bottom: 60px;
+}
+footer{
+	background-color: gray;
+}
+#Mymenu li a{
+	color: white;
+	font-family: 'Nunito', sans-serif;
+}
+#Mymenu li a:hover{
+	color: #94fcf1;
+}
+h2{
+	font-family: 'Festive', cursive;
+}
+.carousel-inner{
+	width: 50%;
+}
