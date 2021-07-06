@@ -4,6 +4,13 @@ header{
 footer{
 	background-color: gray;
 }
+footer a{
+	color: white;
+	font-family: 'Nunito', sans-serif;
+}
+footer a:hover{
+	color: #94fcf1;
+}
 #Mymenu li a{
 	color: white;
 	font-family: 'Nunito', sans-serif;
