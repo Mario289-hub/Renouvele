@@ -21,6 +21,10 @@ footer a:hover{
 h2{
 	font-family: 'Festive', cursive;
 }
+.carousel-item img{
+	width: 65%;
+	margin: 0 0 0 200px;
+}
 #inicio img{
 	width: 30%;
 	margin: 20px 0 0 430px;
