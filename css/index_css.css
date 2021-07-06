@@ -21,12 +21,12 @@ footer a:hover{
 h2{
 	font-family: 'Festive', cursive;
 }
-.carousel-inner{
-	width: 50%;
-}
 #inicio img{
 	width: 30%;
 	margin: 20px 0 0 430px;
+}
+#emailb{
+	margin: 10px 0 10px 480px;
 }
 
 
@@ -38,7 +38,7 @@ h2{
 		width: 100%;
 		margin: 20px 0 0 0;
 	}
-	.emailb{
-		margin: 10px 0 10px 0;
+	#emailb{
+		margin: 10px 0 10px 80px;
 	}
 }
