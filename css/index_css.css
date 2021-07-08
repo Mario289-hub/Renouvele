@@ -48,6 +48,9 @@ h2{
 #incioText p{
 	float: left;
 }
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 #mc_embed_signup{
 	margin: 0 0 0 120px;
 }
