@@ -45,7 +45,7 @@ h2{
 	width: 30%;
 	margin: 20px 0 0 430px;
 }
-#incioText p{
+#incioText h4{
 	float: left;
 }
 #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -131,6 +131,7 @@ h2{
 	padding: 150px 0 0 10px;
 }
 #moreinfo{
+	text-align: center;
 	padding: 10px 0 0 25px;
 }
 #moreinfo h1{
@@ -143,16 +144,13 @@ h2{
 #emailb{
 	margin: 10px 0 10px 480px;
 }
-#inicioText p{
+#inicio h4{
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 	background-color: #cbf3ec;
 	padding: 20px;
 	margin: 25px;
 	border-radius: 12px;
-}
-#moreinfotext{
-	text-align: center;
 }
 #moreinfo img{
 	width: 35%;
