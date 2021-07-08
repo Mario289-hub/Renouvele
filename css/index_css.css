@@ -1,8 +1,13 @@
+/*body{
+	background-color: hsla(174, 41%, 78%, 0.8);
+}*/
 header{
 	padding-bottom: 60px;
 }
 footer{
 	background-color: gray;
+	height: 240px;
+	padding: 15px;
 }
 footer a{
 	color: white;
@@ -30,19 +35,98 @@ h2{
 	margin: 20px 0 0 430px;
 }
 #emailb{
-	margin: 10px 0 10px 480px;
+	
+}
+#mc_embed_signup{
+	margin: 0 0 0 120px;
+}
+#mc_embed_signup h2{
+	margin-left: 60px;
+}
+#mc-embedded-subscribe{
+	margin: 0 0 0 70px;
+}
+#RedesSoc{
+	margin: 0 0 0 17px;
+	padding: 0 0 15px 0;
+	text-align: center;
+}
+#FL{
+	width: 14%;
+}
+#IL{
+	width: 24%;
+}
+#buttonS{
+	margin: 20px 20px 20px 55px;
+}
+#Ctitle{
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+#contactanos p{
+	color: white;
+	text-align: justify-all;
+}
+#copy{
+	float: right;
+}
+#info{
+	float: left;
+}
+#subs{
+	float: left;
 }
 
 
-@media(max-width: 600px){
+@media(max-width: 800px){
 	h2{
 		text-align: center;
 	}
+	footer{
+		height: 360px;
+	}
 	#inicio img{
-		width: 100%;
+		width: 90%;
 		margin: 20px 0 0 0;
 	}
-	#emailb{
-		margin: 10px 0 10px 80px;
+	#FL{
+		width: 13%;
+	}
+	#IL{
+		width: 24%;
+	}
+	#buttonS{
+		margin: 20px 20px 20px 70px;
+	}
+	#inicio img{
+		width: 100%;
+		margin: 20px 0 0 0px;
+	}
+	.carousel-item img{
+		width: 100%;
+		margin: 0 0 0 0;
+	}
+	#mc_embed_signup{
+		margin: 0 0 0 80px;
+	}
+	#mc_embed_signup h2{
+		margin: 0 0 0 65px;
+		text-align: left;
+	}
+	#mc-embedded-subscribe{
+		margin: 0 0 0 75px;
+	}
+	#contactanos p{
+		color: white;
+		text-align: center;
+	}
+	#info{
+		text-align: center;
+		float: none;
+	}
+	#copy{
+		display: none;
 	}
 }
