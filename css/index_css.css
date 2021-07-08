@@ -58,7 +58,7 @@ h2{
 	width: 24%;
 }
 #buttonS{
-	margin: 20px 20px 20px 55px;
+	margin: 0 20px 20px 55px;
 }
 #Ctitle{
 	color: white;
@@ -71,9 +71,11 @@ h2{
 }
 #copy{
 	float: right;
+	font-family: Montserrat;
 }
 #info{
 	float: left;
+	font-family: Montserrat;
 }
 #subs{
 	float: left;
